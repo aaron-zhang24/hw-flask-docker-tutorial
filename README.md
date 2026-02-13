@@ -1,0 +1,1 @@
+This assignment follows the instructions for creating a dockerized flask app at https://runnable.com/docker/python/dockerize-your-flask-application. The files in the repo are the files that were created in order to successfully create a dockerized flask app at the port of your using ($UID).
